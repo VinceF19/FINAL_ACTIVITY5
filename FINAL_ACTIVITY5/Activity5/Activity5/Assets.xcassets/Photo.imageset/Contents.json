@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20047-scuderia-ferrari-portuguese-gp-gallery-race-812x541.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
